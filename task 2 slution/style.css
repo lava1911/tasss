@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+.container {
+    float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+    height: 550px;
+    width: 50%;
+    /* background-color: aqua; */
+}
+
+.item {
+    width: auto;
+    height: auto;
+}
+.title {
+    font-weight: bold;
+    font-size: 20pt;
+    margin-bottom: 20px;
+}
+.aside {
+text-align: center;
+}
+.tip {float: left;
+    height: 300px;
+    width: 450px;
+    /* background-color: aqua; */
+    margin-top: 250px;
+}
+button { padding: 15px;
+    font-weight: bold;
+    font-size: 10pt;
+    margin-top: 50px;
+}

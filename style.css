@@ -1,0 +1,67 @@
+/* .red{
+    color: red;
+    background-color: salmon;
+    width: 100px;
+    height: 100px;
+}
+.blue{
+    color: blue;
+    background-color: saddlebrown;
+    width: 100px;
+    height: 100px;
+}
+.green{
+    color: green;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}  */
+
+
+/* don't repeat your self ,<<< dry */
+
+.heightwidth {
+    height: 100px;
+    width: 100px;
+}
+
+/* Float < */
+
+/* .blue {float: left;
+    background-color: blue;
+}
+.green {float: left;
+    background-color: green;
+
+}
+.yellow {float: left;
+    background-color: yellow;
+}
+.clr {
+    clear: left;
+} */
+
+/* Margin<< */
+
+
+*{
+    margin: 0;
+}
+
+
+.blue { float: left;
+    background-color: blue;
+}
+.green {float: left;
+    background-color: green;
+
+}
+.yellow {float: left;
+    background-color: yellow;
+}
+.c {
+    margin: 20px;
+}
+.clr{
+    clear: both;
+}
